@@ -229,9 +229,9 @@ Suit up and hit the button below!<br/><br/>
 ## License :pushpin:
 This project is licensed under MIT License.<br/>
 <br/>
-You are welcome to use this code for anything you want. Feel free to modify, share, and distribute it. However, please be aware that there is no warranty and we are not responsible for any issues that might occur.<br/>
+You are welcome to use the codes for anything you want. Feel free to modify, share, and distribute it. However, please be aware that there is no warranty and we are not responsible for any issues that might occur.<br/>
 <br/>
-If you use this code, a little shout-out attribution to me would be great.<br/>Happy coding! :tada:
+If you use the codes and other image resources, a little shout-out attribution to me acknowledging the source, would be great.<br/>Happy coding! :tada:
 
 
 
