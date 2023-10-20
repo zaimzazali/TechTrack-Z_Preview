@@ -72,7 +72,7 @@ _Expand any track / circuit names under the "Track List" below to read its respe
                             <img src="./Main/TechTrack-Z/evolt-karting/data/track_layout.png" alt="Evolt Karting - Track Layout" width="250">
                         </td>
                         <td>
-                            <img src="./Main/TechTrack-Z/evolt-karting/data/racing_line.png" alt="Evolt Karting - Racing Line" width="250">
+                            <img src="./Main/TechTrack-Z/evolt-karting/data/animated_racing_line.gif" alt="Evolt Karting - Racing Line" width="250">
                         </td>
                         <td>
                             <ul>
@@ -276,4 +276,4 @@ If you use the codes and other image resources, a little shout-out attribution t
 [evolt-karting-website]: https://www.evoltkarting.com
 
 [evolt-karting-track-layout]: ./Main/TechTrack-Z/evolt-karting/data/track_layout.png
-[evolt-karting-racing-line]: ./Main/TechTrack-Z/evolt-karting/data/racing_line.png
+[evolt-karting-racing-line]: ./Main/TechTrack-Z/evolt-karting/data/animated_racing_line.gif
