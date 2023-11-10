@@ -58,7 +58,7 @@ _Expand any track / circuit names under the "Track List" below to read its respe
     <tr>
         <td><b>Malaysia</b></td>
         <td>
-            <details>
+            <details open>
             <summary><em>Evolt Karting</em></summary>
             <ul>
                 <table>
